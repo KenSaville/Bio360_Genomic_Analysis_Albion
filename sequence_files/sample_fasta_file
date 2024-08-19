@@ -1,1 +1,2 @@
-
+>fasta files start with a header line, then the actual sequence starts on the next line.  The heade line begins with a greater than symbol
+AGCGATGCAATGA
