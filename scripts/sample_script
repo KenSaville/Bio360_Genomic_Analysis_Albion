@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#scripts often start with a shebang.  The above line is the shebang for this script.  It tells the shell where the program (bash) needed to run the script is located (in the /bin folder)
+#usually the hashtag symbol denotes a comment.  ut in the shebang line it is special
