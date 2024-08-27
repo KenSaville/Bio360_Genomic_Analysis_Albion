@@ -1,0 +1,74 @@
+﻿Syllabus:  Bio 360 Genomic Analysis, Fall 2024
+Class meeting: TR – 2:15 to 4:05 p.m. – Putnam 251 (The computer lab) 
+
+
+Instructor:  Dr. Ken Saville
+Office:  054 Putnam, Ph: X-0388
+Email:        ksaville@albion.edu
+Student Hours – MTF 11:40-1:30 and by appointment.  Typically the hour directly following class is a good time to get extra help / ask questions.  Or just stop by my office.
+
+
+Catalog description
+BIOL 360: Genomic Analysis
+1 Unit
+Prerequisite:  BIOL 300 or permission of instructor.
+This is a hands-on, project-based course in which students will learn the latest bioinformatics (computer-based) techniques for genome sequence and gene expression analyses.  We will explore the major concepts and skills of genomic analysis by downloading and analyzing published bioinformatics data.  No prior computer experience is required.  Counts as an elective with lab.  Offered in alternate years. Saville
+
+
+This also counts as a Biology 'List 2' course
+
+
+Textbook: 
+
+
+1.  Biostars Handbook by Istvan Albert  
+
+
+Additional readings from the primary literature will be assigned.
+
+
+Schedule.  The course schedule will be posted and maintained on the course moodle site.
+
+
+Assignments/Grading
+
+
+Attendance and Participation (30 %): This is a highly “participatory” class.  Students are expected to be in class ready to work at 2:15 p.m.  Obviously your work cannot go on when you are not present.   Excused absences (either emergency or known in advance) must be officially documented.  You must notify the instructor no later than the day of the class period you will be missing.  You are allowed to make up two excused absences, but only if they are excused.  To make up an absence you will need to schedule a time to complete the work missed.  Additional missed classes or absences not made up will result in a 5% reduction of the participation grade.
+
+
+Homework (50 %):  There will be a homework assignment approximately each week to assess completion and understanding of that week’s readings and in-class computer work.
+
+
+Text book/Literature presentations/discussion (10%):  Students will take turns presenting portions of reading assignments to the class in a journal club format
+
+
+Final project (10%) 
+
+
+Note:  All of the work in this class is “Open book”.  This also means open internet.  In fact “cheat sheets” for common commands used in the command line or other programs will be occasionally provided, and students are encouraged to find and share their own.  This is because the world is open book/internet.  All working bioinformaticists routinely search google or other resources to help learn and run various analyses.  However, these resources should be used to help learn how to run the analyses, blindly copying and pasting without understanding rarely works.  Also, students are expected to do their own work.  Work copied from another student or copied directly from an online resource, including AI generated code, will not be accepted.  Repeated offenses will result in failure of the course.
+
+
+General Policies
+* Behavior and Academic Integrity
+* Please adjust your cell phones to ring in silent mode.  Cell phones, laptops and ipads/tablets are to be used for class-related materials only.
+* * As an academic community, Albion College is firmly committed to honor and integrity in the pursuit of knowledge.  Therefore, as a member of this academic community, each student acknowledges responsibility for his or her actions and commits to the highest standards of integrity.  In doing so, each student makes a covenant with the college not to engage in any form of academic dishonesty, fraud, cheating, or theft.
+* * All work is expected to be your own.  Plagiarism and cheating are serious offenses.  Evidence of either will result in a 0% for the assignment or exam on which it was demonstrated.  In addition the Vice President for Student Affairs and the Academic Infractions Division of the Judicial Board will be notified. A second offense will result in the notification of the Academic Infractions Division.  The normal penalty for a second offense is suspension or expulsion from the College, and this action will be noted on the student’s official academic record.
+* * Cutler Center Information 
+* The Cutler Center for Student Success is located in the Stockwell Library.  The Cutler Center provides a number of services to support student success and serves as a one-stop hub connecting students to resources across campus.  Through the Cutler Center, students access peer tutoring and writing consulting, accessibility services and accommodations, the TRIO SSS program and other services.  To connect with the Cutler Center, please email us at cutler@albion.edu or stop by to be connected to the resources you need to be successful this term. 
+* * Accessibility Services
+* It is the policy of Albion College to accommodate students with disabilities and qualifying diagnosed conditions in accordance with federal and state laws. Any student who feels that they may need an accommodation based on the impact of a learning, psychiatric, physical, or chronic health diagnosis, should contact Accessibility Services Director, Elizabeth Rudolph (erudolph@albion.edu), to meet and develop a plan for reasonable accommodation(s) based on supporting documentation.
+* * If you have completed this process and requested accommodations for this semester, plan to meet with Elizabeth as early as possible to discuss a plan for implementing these modifications in this class. It is best to schedule these meetings at least one week prior to their implementation.
+* * Accessibility Services is housed in the Cutler Center on the first floor of the Stockwell Library and is open Monday-Friday, 8:00am-5:00pm. Elizabeth Rudolph, the Director for Accessibility Services can be reached at 517-629-0628 or email erudolph@albion.edu for more information.
+* * Religious Holidays
+* The Faculty Handbook addresses class absence due to the observance of religious obligations. “Every reasonable effort should be made to help students avoid negative academic consequences when their religious obligations conflict with academic requirements. Absence from classes or examinations for religious reasons does not relieve students from responsibility for any part of the course work required during the period of absence. Students who expect to miss classes, examinations, or other assignments as a consequence of their religious observance shall be provided with a reasonable alternative opportunity to complete such academic responsibilities. It is the obligation of students to provide faculty with notice of the dates of religious holidays on which they will be absent at the beginning of the semester. Should disagreement arise over any aspect of this policy, the parties involved should contact the Provost’s Office.” 
+* * Reporting Discriminatory Harassment
+* Albion College seeks to create a welcoming environment in which all students can learn, but we recognize that harassment may still occur. If a student experiences harassment or discriminatory treatment, there are several ways they can report it. For details, please see https://www.albion.edu/offices/student-development/current-students/report-discriminatory-harassment/. 
+* * Bias Reporting
+* In line with our commitment to fostering a culture of belonging on campus, we have created a bias reporting system for use by all members of our community. This tool allows students, faculty, and staff to report individual incidents of bias on or off campus and serves as a mechanism to help us address systemic issues of bias more broadly. For more information and/or to report a bias incident, please see https://www.albion.edu/offices/office-of-belonging/bias-reporting/.
+* * Relationship Violence, Sexual Assault, and Sexual Harassment
+* Albion College is committed to providing an educational environment where we are all able to learn, teach, and work freely and where the dignity, safety, and self-respect of all members of our community are protected. Sexual assault, sexual harassment, domestic violence, dating violence, stalking, and sex-based discrimination are incompatible with this mission and will not be tolerated at Albion College. 
+* If you have experienced domestic violence, dating violence, stalking, sexual assault, sexual harassment or sex-based discrimination, please contact the College’s Title IX Coordinator, Kelly Finn (titleix@albion.edu) to learn about possible support measures, resources and options that are available to you.
+* On-campus confidential resources for victims/survivors of sexual assault include Mikayla Campbell, Director of the Anna Howard Shaw Center for Gender Equity and Victim Advocacy (mcampbell@albion.edu), Counseling Services (517-629-0236) and Sexual Assault Advocates https://www.albion.edu/offices/anna-howard-shaw-center-for-gender-equity/victim-survivor-services/ (SAAs).
+
+
+  /
