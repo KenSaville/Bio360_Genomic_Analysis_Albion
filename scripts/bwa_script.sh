@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+#The genome accession number and SRR number need to be provided as arguments on the command line
+#or illustration use AF086833 for the ebola genome and SRR1972739 for the SRR.  These sequences come from project PRJNA257197  
+
 # this causes the script to stop and extit if there is an error
 set -uex
 
